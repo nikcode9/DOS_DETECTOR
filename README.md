@@ -1,6 +1,6 @@
 # DOS_DETECTOR
 
-this simple tool help you to detect Deauth_DoS Attack on your Machine
+this simple tool help you to detect DoS Attack on your Machine
 
 Requirements For these Tool :
 
